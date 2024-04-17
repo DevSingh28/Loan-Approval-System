@@ -10,7 +10,9 @@ This Jupyter Notebook utilizes machine learning techniques to analyze a dataset 
 
 1. **Dataset**: Ensure you have the `loan_approval_dataset.csv` file available. You can find the original file [here](https://colab.research.google.com/drive/1qLcDtJerOzS14P0P2AbuvPp4nxuZstN7).
 
-2. **Dependencies**: Make sure you have all the necessary dependencies installed. These include:
+2. You can download the dataset from [this Kaggle link](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset).
+
+3. **Dependencies**: Make sure you have all the necessary dependencies installed. These include:
    - Pandas
    - NumPy
    - Matplotlib
@@ -18,11 +20,11 @@ This Jupyter Notebook utilizes machine learning techniques to analyze a dataset 
    - Scikit-learn
    - TensorFlow
    
-3. **Run the Notebook**: Execute the cells in the `Loan_approval.ipynb` notebook in a Jupyter environment like Google Colab or Jupyter Notebook.
+4. **Run the Notebook**: Execute the cells in the `Loan_approval.ipynb` notebook in a Jupyter environment like Google Colab or Jupyter Notebook.
 
-4. **Training**: The notebook will preprocess the data, train the neural network model, and evaluate its performance.
+5. **Training**: The notebook will preprocess the data, train the neural network model, and evaluate its performance.
 
-5. **Prediction**: You can input the details of a new loan applicant and get a prediction of whether their loan application would likely be approved or rejected.
+6. **Prediction**: You can input the details of a new loan applicant and get a prediction of whether their loan application would likely be approved or rejected.
 
 ## Dependencies
 
